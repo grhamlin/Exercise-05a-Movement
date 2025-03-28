@@ -8,11 +8,12 @@ The first Unity 3D exercise, a simple first-person-controlled character.
 
 ## References
 
-None
+Video 
 
 ## Future Development
 
-None
+Exercise 5B
 
 ## Created by 
+Griffith Hamlin
  
